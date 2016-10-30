@@ -1,0 +1,14 @@
+# Assessment ability
+
+## Aim
+
+### project Assessment
+
+- To assess which technologies would be needed in a project
+- To assess how long will it take to complete a project 
+
+### learning Assessment
+
+- To assess how long will it take to learn a new technology
+
+**Assessment** is a very important ability for developing.
