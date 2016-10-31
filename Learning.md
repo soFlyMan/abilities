@@ -2,3 +2,4 @@
 
 ## Aim
 
+- study independently
