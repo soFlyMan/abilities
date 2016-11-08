@@ -2,11 +2,13 @@
 
 design
 
-半创业半学习的个人项目
+Entrepreneurship and study 半创业半学习的个人项目
 
-架构
+technology selection 技术选型
 
-项目需求分析
+framework 架构
+
+Analysise 项目需求分析
 
 node+mongoDB
 
